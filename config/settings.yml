@@ -1,7 +1,7 @@
 defaults: &defaults
 
   # App settings
-  :greeting:            beer pmyp valen tine
+  :greeting:            beerh pmyph valen tineh
   :page_title:          Beer Valentine
   :random_img_path:     images/180px
   :page_refresh_rate:   5 # seconds
